@@ -8,10 +8,10 @@
 -  📞 Contact- 6381612417
 
 ## 🚀 Skills
-![Python Logo](https://example.com/path/to/python-logo.png)  
-![HTML Logo](https://example.com/path/to/html-logo.png)  
-![CSS Logo](https://example.com/path/to/css-logo.png)  
-![JavaScript Logo](https://example.com/path/to/javascript-logo.png)
+![Python](https://example.com/path/to/python-logo.png)  
+![HTML](https://example.com/path/to/html-logo.png)  
+![CSS](https://example.com/path/to/css-logo.png)  
+![JavaScript](https://example.com/path/to/javascript-logo.png)
 
 
 ## 📫 Let's connect!
