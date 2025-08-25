@@ -8,10 +8,14 @@
 -  📞 Contact- 6381612417
 
 ## 🚀 Skills
-![Python](https://example.com/path/to/python-logo.png)  
-![HTML](https://example.com/path/to/html-logo.png)  
-![CSS](https://example.com/path/to/css-logo.png)  
-![JavaScript](https://example.com/path/to/javascript-logo.png)
+## 🚀 Skills
+
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)  
+![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)  
+![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)  
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+`
+
 
 
 ## 📫 Let's connect!
