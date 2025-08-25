@@ -1,4 +1,4 @@
-# Hello ! I'm Ishwarya🫱🏼‍🫲🏻
+# Hello ! I'm Ishwarya🤝
 ## 👤 About me
 - 🔭 Studying B.Tech IT (2nd year)
 - 🌱 I’m currently learning **Next.js and TypeScript**
@@ -8,12 +8,10 @@
 -  📞 Contact- 6381612417
 
 ## 🚀 Skills
-**Web**: JavaScript, HTML/CSS
-
-**Backend**: Python, Java
-
-**Systems**: C, C++
-
+![Python Logo](https://example.com/path/to/python-logo.png)  
+![HTML Logo](https://example.com/path/to/html-logo.png)  
+![CSS Logo](https://example.com/path/to/css-logo.png)  
+![JavaScript Logo](https://example.com/path/to/javascript-logo.png)
 
 
 ## 📫 Let's connect!
